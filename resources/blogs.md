@@ -18,6 +18,14 @@
 - [Pybites](https://pybitesplatform.com/)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+
+### Django 
+- [Django Ecosystem](https://www.djangoproject.com/community/ecosystem/)
+- [Awesome Django](https://awesomedjango.org/)
+- [Django books](https://djangobook.com/)
+
+### System Design 
+- [System Design Premier](https://github.com/donnemartin/system-design-primer)
 ## Favourite Podcasts Episodes
 
 
