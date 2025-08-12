@@ -24,6 +24,9 @@
 - [Awesome Django](https://awesomedjango.org/)
 - [Django books](https://djangobook.com/)
 
+### postgreSQL
+- [PostgreSQL Playground](https://www.crunchydata.com/developers/playground/learn-sql)
+
 ### System Design 
 - [System Design Premier](https://github.com/donnemartin/system-design-primer)
 ## Favourite Podcasts Episodes
